@@ -1,11 +1,11 @@
 # Retail_Analytics_using_Python
 
-This Retail Analytics Workshop provides an understanding of the needs and applications of analytics in retail sector to win more customers and to increase revenue.
+This Retail Analytics Workshop provides an understanding of the needs and applications of analytics in the retail sector to win more customers and to increase revenue.
 
 ## Tech Stack
 - **Python**
 - **Jupyter Notebook**
-- **Google Collab**
+- **Google Colab**
 
 ## Features
 • Import Data
