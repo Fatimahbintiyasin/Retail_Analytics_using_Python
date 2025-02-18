@@ -8,11 +8,11 @@ This Retail Analytics Workshop provides an understanding of the needs and applic
 - **Google Colab**
 
 ## Features
-• Import Data
-• Data Pre-processing
-• Exploratory Data Analysis of Sales Data
-• Data Visualization
-• Conversion Rate
-• RFM Analysis
-• Customer Life Time Value
-• Basket Analysis
+- **Import Data**
+- **Data Pre-processing**
+- **Exploratory Data Analysis of Sales Data**
+- **Data Visualization**
+- **Conversion Rate**
+- **RFM Analysis**
+- **Customer Life Time Value**
+- **Basket Analysis**
